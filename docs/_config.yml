@@ -28,7 +28,7 @@ twitter_username: krisingva
 github_username:  krisingva
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
